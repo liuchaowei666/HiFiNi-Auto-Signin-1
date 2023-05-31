@@ -21,3 +21,4 @@ jobs:
               env:
                 COOKIE: ${{ secrets.COOKIE }}
               run: go run main.go
+
